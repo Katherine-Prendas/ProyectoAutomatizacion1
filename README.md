@@ -12,7 +12,6 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - ***[Node.js](https://nodejs.org/en/download/package-manager) (versión 14 o superior)***     
 - ***npm (incluido con Node.js)***      
 - ***Cypress (instalado como dependencia del proyecto)***
-- ***Extra: [Allure](https://www.npmjs.com/package/@shelex/cypress-allure-plugin) (para reportes)***
 ### Mas información sobre como instalar [cypress](https://docs.cypress.io/guides/getting-started/installing-cypress)
 ## Pasos de instalación
 ### 1. Clona el repositorio del proyecto:
