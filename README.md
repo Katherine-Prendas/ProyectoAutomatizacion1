@@ -46,7 +46,8 @@ proyectoAutomatizacion/
     │   ├── carrito.spec.cy.js  
     │   ├── checkout.spec.cy.js     
     │   └── logout.spec.cy.js       
-    ├── fixtures/   
+    ├── fixtures/ 
+    ├── reports/html  
     └── support/        
 └── node_modules/   
 ├── cypress.config.js   
