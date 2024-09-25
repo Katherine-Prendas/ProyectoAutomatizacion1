@@ -5,7 +5,7 @@ Este proyecto automatiza pruebas para garantizar que las funcionalidades clave d
 Lenguaje de programación: JavaScript        
 Framework de automatización: Cypress        
 Gestión de dependencias: npm (Node Package Manager)     
-Herramientas de reporting: Allure 
+Herramientas de reporting: Mochawesome
 # Instalación
 ## Prerequisitos
 Antes de comenzar, asegúrate de tener instalados los siguientes programas:  
